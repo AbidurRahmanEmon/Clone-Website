@@ -1,0 +1,43 @@
+.my-card-img{
+    width: 50px;
+    align-self: center;
+}
+.card{
+    border: none;
+}
+.play-icon{
+    width:60px;
+    align-self: center;
+}
+.hero-background{
+    
+        background-image: url('https://cdn.pixabay.com/photo/2024/07/14/08/38/ai-generated-8893956_1280.jpg');
+        background-size: cover;          
+        background-position: center;     
+        background-repeat: no-repeat;    
+        height:500px;                   
+        width: 100%;
+        /* display: flex; */
+        align-items: center;             
+        justify-content: center;         
+        color: white;                    
+      }
+      .hero-section {
+        margin-top: 180px;
+    }
+    .logo{
+        width:150px;
+    }
+    .sticky-top {
+        z-index: 1030 !important;
+      }
+    .copyright{
+        height:65px !important;
+    }
+    .my-card-img {
+        width: 60px !important;
+        height: 60px !important;
+        object-fit: contain !important;
+      }
+
+      
